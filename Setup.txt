@@ -3,7 +3,7 @@ Setup
 BASH
 
 git clone https://github.com/IMRAN-8/Codeforces-stats-card.git
-cd custom-codeforces-stats-card
+cd Codeforces-stats-card
 2. Install dependencies
 BASH
 
@@ -36,7 +36,7 @@ Add this to your GitHub profile README:
 HTML
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/custom-codeforces-stats-card/main/assets/codeforces-stats.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Codeforces-stats-card/main/assets/codeforces-stats.svg" />
 </div>
 Replace:
 
@@ -72,7 +72,7 @@ Example
 HTML
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IMRAN-8/custom-codeforces-stats-card/main/assets/codeforces-stats.svg" />
+  <img src="https://raw.githubusercontent.com/IMRAN-8/Codeforces-stats-card/main/assets/codeforces-stats.svg" />
 </div>
 Author
 Imran Hosen
