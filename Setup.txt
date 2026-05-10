@@ -2,7 +2,7 @@ Setup
 1. Clone the repository
 BASH
 
-git clone https://github.com/IMRAN-8/custom-codeforces-stats-card.git
+git clone https://github.com/IMRAN-8/Codeforces-stats-card.git
 cd custom-codeforces-stats-card
 2. Install dependencies
 BASH
