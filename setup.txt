@@ -1,0 +1,80 @@
+Setup
+1. Clone the repository
+BASH
+
+git clone https://github.com/IMRAN-8/custom-codeforces-stats-card.git
+cd custom-codeforces-stats-card
+2. Install dependencies
+BASH
+
+pip install -r requirements.txt
+3. Set your Codeforces handle
+Open:
+
+TXT
+
+scripts/generate_cf_card.py
+Change:
+
+python
+
+HANDLE = "IMRAX"
+to your own Codeforces handle.
+
+4. Run the script
+BASH
+
+python scripts/generate_cf_card.py
+The SVG card will be generated here:
+
+TXT
+
+assets/codeforces-stats.svg
+Use in GitHub Profile README
+Add this to your GitHub profile README:
+
+HTML
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/custom-codeforces-stats-card/main/assets/codeforces-stats.svg" />
+</div>
+Replace:
+
+TXT
+
+YOUR_USERNAME
+with your GitHub username.
+
+GitHub Actions Auto Update
+This project includes a GitHub Actions workflow that updates the card automatically every day.
+
+You can also run it manually from:
+
+TXT
+
+Actions → Update Codeforces Stats Card → Run workflow
+Customization
+You can customize:
+
+Card width and height
+Background color
+Border color
+Text color
+Font size
+Displayed stats
+Layout position
+Edit the SVG section inside:
+
+TXT
+
+scripts/generate_cf_card.py
+Example
+HTML
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IMRAN-8/custom-codeforces-stats-card/main/assets/codeforces-stats.svg" />
+</div>
+Author
+Imran Hosen
+GitHub: IMRAN-8
+Codeforces: IMRAX
