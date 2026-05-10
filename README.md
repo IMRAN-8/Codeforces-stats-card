@@ -50,3 +50,9 @@ Generate SVG Card
 GitHub Actions Auto Update
       ↓
 Display in README
+```
+## Author
+Imran Hosen
+```
+GitHub: IMRAN-8
+Codeforces: IMRAX
