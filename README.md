@@ -51,6 +51,7 @@ GitHub Actions Auto Update
       ↓
 Display in README
 ```
+Check Setup.txt for more details
 ## Author
 Imran Hosen
 ```
