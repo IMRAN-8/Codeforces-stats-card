@@ -8,10 +8,9 @@ cd Codeforces-stats-card
 BASH
 
 pip install -r requirements.txt
+
 3. Set your Codeforces handle
 Open:
-
-TXT
 
 scripts/generate_cf_card.py
 Change:
